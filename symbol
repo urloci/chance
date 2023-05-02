@@ -1,0 +1,41 @@
+<?php return array (
+  '1INCH' => 
+  array (
+    'symbol' => '1INCH',
+    'minorUnit' => 8,
+  ),
+  'AAVE' => 
+  array (
+    'symbol' => 'AAVE',
+    'minorUnit' => 8,
+  ),
+  'ACA' => 
+  array (
+    'symbol' => 'ACA',
+    'minorUnit' => 8,
+  ),
+  'ACH' => 
+  array (
+    'symbol' => 'ACH',
+    'minorUnit' => 8,
+  ),
+  'ACM' => 
+  array (
+    'symbol' => 'ACM',
+    'minorUnit' => 8,
+  ),
+  'ADA' => 
+  array (
+    'symbol' => 'ADA',
+    'minorUnit' => 8,
+  ),
+  'ADX' => 
+  array (
+    'symbol' => 'ADX',
+    'minorUnit' => 8,
+  ),
+  'AERGO' => 
+  array (
+    'symbol' => 'AERGO',
+    'minorUnit' => 8,
+  ),
